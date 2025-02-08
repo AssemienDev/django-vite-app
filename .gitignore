@@ -4,3 +4,4 @@ setup.py
 django_vite_app/__init__.py
 django_vite_app/scripts/__init__.py
 .idea
+.gitignore
